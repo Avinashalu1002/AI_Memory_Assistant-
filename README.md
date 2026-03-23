@@ -51,8 +51,7 @@ This project runs locally using Ollama for privacy and zero API cost.
 * User authentication
 
 ## Demo
-1  ![Result Screen](<img width="1018" height="648" alt="Screenshot 2026-03-23 123756" src="https://github.com/user-attachments/assets/cddf9281-c503-4b2f-8fa6-77e32f90d3a9" />
-)
-2  ![Result Screen](<img width="1075" height="698" alt="Screenshot 2026-03-23 123855" src="https://github.com/user-attachments/assets/97f03f1b-8713-41a1-be30-5cae5a4c7edf" />
-)
+<img width="1075" height="698" alt="Screenshot 2026-03-23 123855" src="https://github.com/user-attachments/assets/acdd93c1-7e18-4e9c-814a-fceef33fd6dc" />
+
+<img width="1018" height="648" alt="Screenshot 2026-03-23 123756" src="https://github.com/user-attachments/assets/99a4166f-d16a-4e36-8bec-213b43da5ee1" />
 
